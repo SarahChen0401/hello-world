@@ -1,4 +1,4 @@
 # hello-world
-Hello!
-This is Sarah Chen, a princess from Earth.
-Nice to meet you all~
+Hello, guys!
+This is the second time na!
+How do you do na~
